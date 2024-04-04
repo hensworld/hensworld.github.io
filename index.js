@@ -1,13 +1,9 @@
-var password="hey";
+var password="redo";
 var guess;
-<<<<<<< HEAD
-guess=prompt('hai!','');
-=======
-guess=prompt('hi','');
->>>>>>> 1b69523fb0ec8fccd03f0a167c51f59f67ea71ee
+guess=prompt('try again :p','');
 if(password==guess)
-alert('have a good time!');
+alert('have a great day :)');
 else
 {
-  window.location="http://www.google.com";
+  window.location="http;//www.google.com";
 }
