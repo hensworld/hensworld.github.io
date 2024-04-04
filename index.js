@@ -5,5 +5,5 @@ if(password==guess)
 alert('have a great day :)');
 else
 {
-  window.location="http;//www.google.com";
+  window.location="https://www.youtube.com/watch?v=NHpczegqMUI";
 }
